@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="db7ff943-3263-4cf9-b0b4-af051dceae7f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="2VtLidUGtJ9XOvKRcIu9cKOp7aB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dhazr/Desktop/GAMES/Bombsquad/bse-2.4-windows/BombSquad Explodinary 2.4/ba_data/python&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dhazr\Desktop\GAMES\Bombsquad\BombSquad_Windows_1.7.23\BombSquad_Windows_1.7.28\BombSquad_Windows_1.7.28\ba_data\python\bascenev1lib\mapdata" />
+      <recent name="C:\Users\dhazr\Desktop\GAMES\Bombsquad\BombSquad_Windows_1.7.23\BombSquad_Windows_1.7.28\BombSquad_Windows_1.7.28\ba_data\python\bauiv1lib" />
+      <recent name="C:\Users\dhazr\Desktop\GAMES\Bombsquad\BombSquad_Windows_1.7.23\BombSquad_Windows_1.7.28\BombSquad_Windows_1.7.28\ba_data\python\bauiv1lib\store" />
+      <recent name="C:\Users\dhazr\Desktop\GAMES\Bombsquad\BombSquad_Windows_1.7.23\BombSquad_Windows_1.7.28\BombSquad_Windows_1.7.28\ba_data\python\bauiv1lib\gather" />
+      <recent name="C:\Users\dhazr\Desktop\GAMES\Bombsquad\BombSquad_Windows_1.7.23\BombSquad_Windows_1.7.28\BombSquad_Windows_1.7.28\ba_data\python\bauiv1lib\coop" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db7ff943-3263-4cf9-b0b4-af051dceae7f" name="Changes" comment="" />
+      <created>1695650558294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695650558294</updated>
+      <workItem from="1695650559636" duration="1759000" />
+      <workItem from="1695686383702" duration="1669000" />
+      <workItem from="1697288984015" duration="8614000" />
+      <workItem from="1697326239125" duration="348000" />
+      <workItem from="1697326616672" duration="24569000" />
+      <workItem from="1697410958971" duration="6618000" />
+      <workItem from="1697469469989" duration="5013000" />
+      <workItem from="1697497979548" duration="878000" />
+      <workItem from="1697515974439" duration="465000" />
+      <workItem from="1697540444881" duration="4481000" />
+      <workItem from="1697584390195" duration="932000" />
+      <workItem from="1697604091052" duration="524000" />
+      <workItem from="1697626653773" duration="10395000" />
+      <workItem from="1697681426633" duration="4406000" />
+      <workItem from="1697704378763" duration="9914000" />
+      <workItem from="1697760427544" duration="5930000" />
+      <workItem from="1697788666549" duration="27418000" />
+      <workItem from="1697846152931" duration="29998000" />
+      <workItem from="1697938029886" duration="3237000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Downloads/handlechat.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bauiv1lib/settings/audio.py</url>
+          <line>120</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bauiv1lib/settings/audio.py</url>
+          <line>121</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bauiv1lib/account/viewer.py</url>
+          <line>179</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bauiv1lib/account/viewer.py</url>
+          <line>180</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bauiv1lib/account/viewer.py</url>
+          <line>181</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bauiv1lib/popup.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
